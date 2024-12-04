@@ -4,4 +4,4 @@ if [ ! -d "${HOME}/.local/share/Steam/steamui/skins/Classic-Steam-Library" ]; th
   mkdir -p "${HOME}/.local/share/Steam/steamui/skins/Classic-Steam-Library"
 fi
 
-rsync -avhxzP --exclude={'install.sh','.github','.git'} --delete "./" "${HOME}/.local/share/Steam/steamui/skins/Classic-Steam-Library/*"
+rsync -avhxzP --exclude={'install.sh','.github','.git'} --delete "./" "${HOME}/.local/share/Steam/steamui/skins/Classic-Steam-Library/"
