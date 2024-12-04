@@ -1,3 +1,5 @@
+Attempting to bring back my old Steam skin from Steam Customizer.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1KXPVY)
 
 # This theme does not work in the Steam Beta. It only works on the stable branch of Steam!
